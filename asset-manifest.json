@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/light-vr-website/static/css/main.5c29fea0.css",
-    "main.js": "/light-vr-website/static/js/main.e4c6b347.js",
+    "main.js": "/light-vr-website/static/js/main.20f33962.js",
     "static/media/headset-1.png": "/light-vr-website/static/media/headset-1.4113a83119be0dd4c844.png",
     "static/media/explore.png": "/light-vr-website/static/media/explore.ebf710feded2cdf0173a.png",
     "static/media/headset-3.png": "/light-vr-website/static/media/headset-3.dd254bc5c9f5710f6b8c.png",
@@ -19,10 +19,10 @@
     "static/media/avt4.png": "/light-vr-website/static/media/avt4.aabbb166b2124eb5f652.png",
     "index.html": "/light-vr-website/index.html",
     "main.5c29fea0.css.map": "/light-vr-website/static/css/main.5c29fea0.css.map",
-    "main.e4c6b347.js.map": "/light-vr-website/static/js/main.e4c6b347.js.map"
+    "main.20f33962.js.map": "/light-vr-website/static/js/main.20f33962.js.map"
   },
   "entrypoints": [
     "static/css/main.5c29fea0.css",
-    "static/js/main.e4c6b347.js"
+    "static/js/main.20f33962.js"
   ]
 }
